@@ -57,7 +57,7 @@ Examples of usage as given on picture:
 ```
 
 Translator because of resources has set limit max_length=400 to translate at once.
-Preparing simple loop and dividing text on sentences using ready NTLK  or re sentence tokeniser or other make it possible to translate text as long as you wish.
+Preparing simple loop and dividing text on sentences using ready NLTK  or re sentence tokeniser or other make it possible to translate text as long as you wish.
 
 ``` 
 from nltk.tokenize import RegexpTokenizer, sent_tokenize
