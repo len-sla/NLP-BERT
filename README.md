@@ -1,5 +1,5 @@
 ## Project Name
->English to german translator local/server using T5 model.
+*  >English to german translator local/server using T5 model.
 
 
 
