@@ -1,5 +1,5 @@
 ## Project Name
-*  >English to german translator local/server using T5 model.
+>English to german translator local/server using T5 model.
 
 
 
@@ -14,6 +14,13 @@ There actually more line of code taking care about cosmetic of two used widgets 
 
 #### _comparing local and online translator result_ 
 ![### comparing local and online translator result ](en-ge-t5.JPG)
+
+### There two extra notebooks to make use of T5 and MarianMT model for translation of text files
+
+* [First file:](Part_A_files_preprocess_NTLK_spliting_by_sentence.ipynb) is responsible for text file preprocessing.
+* [Second file:](Part_B_files_text_translators_eng_to_de_pl.ipynb) makes text file translation.
+
+![### Using Ipython forms ](file_trans.JPG)
 
 ### Libraries
  
@@ -57,7 +64,7 @@ Examples of usage as given on picture:
 ```
 
 Translator because of resources has set limit max_length=400 to translate at once.
-Preparing simple loop and dividing text on sentences using ready NLTK  or re sentence tokeniser or other make it possible to translate text as long as you wish.
+Preparing simple loop and dividing text on sentences using ready NTLK  or re sentence tokeniser or other make it possible to translate text as long as you wish.
 
 ``` 
 from nltk.tokenize import RegexpTokenizer, sent_tokenize
