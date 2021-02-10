@@ -15,7 +15,7 @@ There actually more line of code taking care about cosmetic of two used widgets 
 #### _comparing local and online translator result_ 
 ![### comparing local and online translator result ](en-ge-t5.JPG)
 
-### There two extra notebooks to make use of T5 and MarianMT model for translation of text files
+### There two extra notebooks(Part_A_files_preprocess_NTLK_spliting_by_sentence.ipynb, Part_B_files_text_translators_eng_to_de_es_pl.ipynb ) to be used with  T5 and MarianMT models for translation of text files
 
 * [First file:](Part_A_files_preprocess_NTLK_spliting_by_sentence.ipynb) is responsible for text file preprocessing.
 * [Second file:](Part_B_files_text_translators_eng_to_de_pl.ipynb) makes text file translation.
