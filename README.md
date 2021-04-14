@@ -7,7 +7,7 @@
 If you need to  translate  text from english  to german/french/spanish 
 you could use one of many online translator services. They are convenient and quick.
 If you are a company/private and don't want to share, sometimes confident information having own local translator could be better solution.
-With a bit more than a 3 lines of code old machine all that is possible. Key word is 'transformers'.
+With a bit more than a 3 lines of code and even old machine all that is possible. Key word is 'transformers'.
 Transformer models have taken the world of natural language processing (NLP) by storm and Hugging Face is a company
 which empowered everybody with powerfull tools: open-source libraries, and pretrained models( among them [T5](https://huggingface.co/transformers/v2.7.0/model_doc/t5.html#tft5model)).
 There actually more line of code taking care about cosmetic of two used widgets compared to translation. 
