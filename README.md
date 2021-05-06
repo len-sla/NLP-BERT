@@ -70,7 +70,9 @@ Notebook shows how BERT predicts next sentence(NSP mode).
 This notebook shows how you can use Google Colab with free GPU to get Bert model predictions. Generally it is nothing special except the times where there is not enough GPU memory to do the task. To make it possible traing set is being traine in batches. Below there is example BERT model = 'cased_L-12_H-768_A-12' is used
 
 ---
-
+## Text Summarization
+[](https://github.com/len-sla/NLP/blob/master/Text%20Summarization%20using%20BERT%2C%20GPT2%2CXLNET.ipynb)
+---
 
 ### Libraries
 * Hugging Face transformers [MarianMT](https://huggingface.co/transformers/model_doc/marian.html).
