@@ -71,7 +71,7 @@ This notebook shows how you can use Google Colab with free GPU to get Bert model
 
 ---
 ## Text Summarization
-[](https://github.com/len-sla/NLP/blob/master/Text%20Summarization%20using%20BERT%2C%20GPT2%2CXLNET.ipynb)
+[Text Summarization using BERT, GPT2,XLNET.ipynb](https://github.com/len-sla/NLP/blob/master/Text%20Summarization%20using%20BERT%2C%20GPT2%2CXLNET.ipynb)
 ---
 
 ### Libraries
