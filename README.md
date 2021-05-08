@@ -15,7 +15,7 @@ Notebook shows how BERT predicts next sentence(NSP mode).
 ## 2. Predicting BERT in equal sizes
 [predict_bert_equal_batches.ipynb:](https://github.com/len-sla/NLP/blob/master/predict_bert_equal_batches.ipynb)
 
-This notebook shows how you can use Google Colab with free GPU to get Bert model predictions. Generally it is nothing special except the times where there is not enough GPU memory to do the task. To make it possible traing set is being traine in batches. Below there is example BERT model = 'cased_L-12_H-768_A-12' is used
+Notebook shows how you can use Google Colab with free GPU to get Bert model predictions. Generally it is nothing special except the times where there is not enough GPU memory to do the task. To make it possible traing set is being traine in batches. Below there is example BERT model = 'cased_L-12_H-768_A-12' is used
 
 ---
 ## 3. Text Summarization
