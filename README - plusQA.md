@@ -127,8 +127,7 @@ with open('text_to-translate.txt', 'r') as in_file:
 
 now sents is a table of sentences so you could  give couple sentences at once to transaltor to process and append result from the translator pipeline to another table and then save as translated text
 
-## Inference using BERT like models from HuggingFace transformers.pipelines.question_answering collection
-## dockerised and exposed via RESTful API
+## Inference using BERT like models from HuggingFace transformers.pipelines.question_answering collection dockerised and exposed via RESTful API
 
 It is a bit long title but is presenting present way of automatising, making efficient, ready to use environment almost everywhere( where docker is present).
 In this particular case docker is installed on Ubuntu18.04 local machine without GPU to test dockerised ML/NLP environments project etc.
