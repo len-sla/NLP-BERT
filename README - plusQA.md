@@ -13,6 +13,8 @@ There couple of things one need to take care when installing  Docker on  Ubuntu 
 To be able to use dockerised environments for non root users in Ubuntu  threre is need to do couple of ajustments. 
 Very extensive reasearch on the subject and helpful tips are  on the (https://stackoverflow.com/questions/48957195/how-to-fix-docker-got-permission-denied-issue#comment101604579_48957722)
 especially part presenting solution of Olshansk user( a least for me)
+---
+
 Once done all this you could see :
 ![](nlp-issue.gif)
 
@@ -24,8 +26,6 @@ Project is: _in progress_,
 
  Project inspired by
  [Hugging Face](https://huggingface.co/)
- &&
- [fast.ai ](https://www.fast.ai/)
 
 
 ### Info
