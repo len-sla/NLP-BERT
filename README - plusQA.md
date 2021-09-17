@@ -14,7 +14,7 @@ To be able to use dockerised environments for non root users in Ubuntu  threre i
 Very extensive reasearch on the subject and helpful tips are  on the (https://stackoverflow.com/questions/48957195/how-to-fix-docker-got-permission-denied-issue#comment101604579_48957722)
 especially part presenting solution of Olshansk user( a least for me)
 Once done all this you could see :
-![nlp-issue.gif]
+![](nlp-issue.gif)
 
 
 ## Status
