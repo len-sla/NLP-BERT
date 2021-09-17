@@ -43,7 +43,7 @@ _Finally, CLIP is part of a group of papers revisiting learning visual represent
 ---
 
 
-## 4. BERT models  dockerised and exposed via RESTful API
+## 4. BERT question_answering  dockerised and exposed via RESTful API
 
 It is a bit long title but is presenting present way of automatising, making efficient, ready to use environment almost everywhere( where docker is present).
 In this particular case docker is installed on Ubuntu18.04 local machine without GPU to test dockerised ML/NLP environments project etc.
