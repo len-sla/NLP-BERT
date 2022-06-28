@@ -1,6 +1,6 @@
 
 
-## 1. Playing with BERT base fucionality locally NSP mode
+## 1. Playing with BERT base functionality locally NSP mode
 
 Notebook shows how BERT predicts next sentence(NSP mode).
 
