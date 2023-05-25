@@ -77,7 +77,7 @@ _Finally, CLIP is part of a group of papers revisiting learning visual represent
 
 Second notebook collects methods based on T5, GPT3, Longformer
 
-[Text Summarization using BERT, GPT2,XLNET.ipynb](https://github.com/len-sla/NLP-BERT/blob/master/summarise.ipynb)
+[Summarize-withT5, GPT, Longformer](https://github.com/len-sla/NLP-BERT/blob/master/summarise.ipynb)
 
 
         '''
