@@ -37,6 +37,23 @@ _Most inspirational for CLIP is the work of Ang Li and his co-authors at FAIR13 
 
 _Finally, CLIP is part of a group of papers revisiting learning visual representations from natural language supervision in the past year. This line of work uses more modern architectures like the Transformer32 and includes VirTex,33 which explored autoregressive language modeling, ICMLM,34 which investigated masked language modeling, and ConVIRT,35 which studied the same contrastive objective we use for CLIP but in the field of medical imaging._
 
+
+There are several other methods and approaches for text summarization  Here are a few notable ones:
+
+1. Extractive Summarization: Extractive summarization involves selecting and extracting important sentences or phrases from the original text to create a summary. It doesn't involve generating new sentences. Common techniques for extractive summarization include ranking sentences based on importance scores (e.g., using TF-IDF, graph-based algorithms like TextRank or LexRank) and selecting the top-ranked sentences as the summary.
+
+2. Abstractive Summarization: Abstractive summarization aims to generate a summary by understanding the meaning of the original text and generating new sentences that capture the essence of the content. This approach involves natural language generation techniques and can be more flexible in terms of generating summaries that are not limited to exact sentence extraction.
+
+3. Latent Semantic Analysis (LSA): LSA is a statistical technique that represents documents and words as vectors in a high-dimensional space. It can be used for extractive summarization by identifying the most important sentences based on their semantic similarity to the overall document.
+
+4. Latent Dirichlet Allocation (LDA): LDA is a topic modeling technique that assumes each document consists of a mixture of topics. It can be applied to summarization by identifying the most representative topics in the document and selecting sentences that best cover those topics.
+
+5. Graph-based Methods: Graph-based methods, such as TextRank or LexRank, treat the sentences of a document as nodes in a graph and use edge weights to represent the similarity between sentences. By applying algorithms like PageRank, these methods can identify the most important sentences as the summary.
+
+6. Neural Network Architectures: Apart from transformer-based models like T5 and GPT, various neural network architectures have been used for summarization, including sequence-to-sequence models with attention mechanisms, recurrent neural networks (RNNs), and convolutional neural networks (CNNs).
+
+It's worth noting that the choice of summarization method depends on the specific requirements of your task, the amount of training data available, the desired level of extractiveness or abstractiveness, and the computational resources at your disposal. Each method has its strengths and limitations, and it's often beneficial to explore and experiment with different approaches to find the most suitable one for your particular use case. following notebook  presents Graph based method and neuralarchitecture GPT and T5
+
         '''
 
 ![### NLP_summarisation.PNG](NLP_summarisation.PNG)
