@@ -72,13 +72,16 @@ _Most inspirational for CLIP is the work of Ang Li and his co-authors at FAIR13 
 _Finally, CLIP is part of a group of papers revisiting learning visual representations from natural language supervision in the past year. This line of work uses more modern architectures like the Transformer32 and includes VirTex,33 which explored autoregressive language modeling, ICMLM,34 which investigated masked language modeling, and ConVIRT,35 which studied the same contrastive objective we use for CLIP but in the field of medical imaging._
 
 
+![### NLP_summarisation.PNG](NLP_summarisation.PNG)
+
+
 Second notebook collects methods based on T5, GPT3, Longformer
 
-[Text Summarization using BERT, GPT2,XLNET.ipynb](https://github.com/len-sla/NLP/blob/master/Text%20Summarization%20using%20BERT%2C%20GPT2%2CXLNET.ipynb)
+[Text Summarization using BERT, GPT2,XLNET.ipynb](https://github.com/len-sla/NLP-BERT/blob/master/summarise.ipynb)
+
 
         '''
 
-![### NLP_summarisation.PNG](NLP_summarisation.PNG)
 ---
 
 
