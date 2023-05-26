@@ -1,24 +1,6 @@
 
 
-## 1. Playing with BERT base functionality locally NSP mode
-
-Notebook shows how BERT predicts next sentence(NSP mode).
-
-[nsp_compare_sentences.ipynb:](https://github.com/len-sla/NLP/blob/master/nsp_compare_sentences.ipynb)
-
-
-![### bert-msm.PNG](bert-nsp.PNG)
-
-
-
----
-## 2. Predicting BERT in equal sizes
-[predict_bert_equal_batches.ipynb:](https://github.com/len-sla/NLP/blob/master/predict_bert_equal_batches.ipynb)
-
-Notebook shows how you can use Google Colab with free GPU to get Bert model predictions. Generally it is nothing special except the times where there is not enough GPU memory to do the task. To make it possible training set is being trained in batches. Below there is example BERT model = 'cased_L-12_H-768_A-12' is used
-
----
-## 3. Text Summarization
+## 1. Text Summarization
 
 
 
@@ -63,7 +45,7 @@ Second notebook collects methods based on T5, GPT3, Longformer
 
 
 
-
+### Following example was done 2 years earlier
 Original text was taken froom Internet and was like below
 
 '''
@@ -84,6 +66,24 @@ _Finally, CLIP is part of a group of papers revisiting learning visual represent
 
 ---
 
+## 2. Playing with BERT base functionality locally NSP mode
+
+Notebook shows how BERT predicts next sentence(NSP mode).
+
+[nsp_compare_sentences.ipynb:](https://github.com/len-sla/NLP/blob/master/nsp_compare_sentences.ipynb)
+
+
+![### bert-msm.PNG](bert-nsp.PNG)
+
+
+
+---
+## 3. Predicting BERT in equal sizes
+[predict_bert_equal_batches.ipynb:](https://github.com/len-sla/NLP/blob/master/predict_bert_equal_batches.ipynb)
+
+Notebook shows how you can use Google Colab with free GPU to get Bert model predictions. Generally it is nothing special except the times where there is not enough GPU memory to do the task. To make it possible training set is being trained in batches. Below there is example BERT model = 'cased_L-12_H-768_A-12' is used
+
+---
 
 ## 4. BERT question_answering  dockerised and exposed via RESTful API
 
