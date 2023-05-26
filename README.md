@@ -22,22 +22,10 @@ It's worth noting that the choice of summarization method depends on the specifi
 
 comparison table summarizing the advantages and disadvantages of T5, GPT, and Graph-based methods for text summarization:
 
-| Method          | Advantages                                                     | Disadvantages                                                  |
-|-----------------|----------------------------------------------------------------|----------------------------------------------------------------|
-| T5              | - Strong performance in abstractive summarization tasks        | - Large model size and memory requirements                     |
-|                 | - Fine-tuning capability for specific summarization objectives | - Longer training time compared to extractive methods          |
-|                 | - Ability to generate coherent and fluent summaries            | - Limited interpretability and difficulty in controlling output |
-| GPT             | - Powerful language modeling capabilities                      | - Lack of explicit control over summary length or key points    |
-|                 | - Ability to generate creative and diverse summaries            | - Risk of generating verbose or off-topic summaries             |
-|                 | - Pre-trained models available in various sizes                | - Large computational resources required for larger models     |
-| Graph-based     | - Can capture important semantic relationships in the text      | - Dependency on text structure and quality                      |
-|                 | - Ability to handle domain-specific knowledge or expertise     | - Difficulty in handling noisy or unstructured texts            |
-|                 | - Interpretable and transparent approach                       | - Need for pre-processing steps and language resources          |
-|                 | - Can generate extractive or abstractive summaries              | - May not perform well with highly abstractive summarization    |
 
-It's important to note that the choice of the summarization method depends on the specific requirements of the task, available resources, and the nature of the text being summarized. Each method has its strengths and weaknesses, and selecting the most appropriate method would depend on factors such as the desired level of abstractive or extractive summarization, the size and quality of the training data, the computational resources available, and the level of control and interpretability needed in the summarization process.
 
-Sure! Here's a comparison table showcasing the advantages and disadvantages of various methods of summarization, including T5, GPT-3, Longformer, Graph-based, and Pegasus:
+
+ Here's a comparison table showcasing the advantages and disadvantages of various methods of summarization, including T5, GPT-3, Longformer, Graph-based, and Pegasus:
 
 | Method     | Advantages                                                                                                                                                                                                         | Disadvantages                                                                                                                                                                                                         |
 |------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -47,7 +35,8 @@ Sure! Here's a comparison table showcasing the advantages and disadvantages of v
 | Graph-based | - Graph-based methods can leverage the structure and relationships between sentences or entities in a document, resulting in more coherent and informative summaries. <br>- They can capture key information effectively. | - Constructing and processing the graph can be computationally expensive, especially for large documents. <br>- Graph-based methods may require additional linguistic or domain-specific knowledge for optimal performance. |
 | Pegasus    | - Pegasus is a state-of-the-art model specifically trained for abstractive summarization tasks. <br>- It can generate concise and coherent summaries with good fluency.                                         | - Pegasus models have a maximum input length limitation, requiring chunking or truncation of long documents. <br>- Fine-tuning Pegasus models can be computationally expensive.                                           |
 
-It's worth noting that the advantages and disadvantages listed above are not exhaustive and may vary depending on the specific use case, dataset, and implementation details. It's important to consider these factors when choosing the most suitable method for a given summarization task.
+
+It's important to note that the choice of the summarization method depends on the specific requirements of the task, available resources, and the nature of the text being summarized. Each method has its strengths and weaknesses, and selecting the most appropriate method would depend on factors such as the desired level of abstractive or extractive summarization, the size and quality of the training data, the computational resources available, and the level of control and interpretability needed in the summarization process.
 
 [[Summarize-withT5, GPT, Longformer](https://github.com/len-sla/NLP-BERT/blob/master/Ssummarise--T5_GPT-Graph-Longformer_Pegasus.ipynb)](https://github.com/len-sla/NLP-BERT/blob/master/Ssummarise--T5_GPT-Graph-Longformer_Pegasus.ipynb)
 
