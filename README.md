@@ -55,9 +55,11 @@ comparison table summarizing the advantages and disadvantages of T5, GPT, and Gr
 
 It's important to note that the choice of the summarization method depends on the specific requirements of the task, available resources, and the nature of the text being summarized. Each method has its strengths and weaknesses, and selecting the most appropriate method would depend on factors such as the desired level of abstractive or extractive summarization, the size and quality of the training data, the computational resources available, and the level of control and interpretability needed in the summarization process.
 
+Second notebook collects methods based on T5, GPT3, Longformer
+
+[[Summarize-withT5, GPT, Longformer](https://github.com/len-sla/NLP-BERT/blob/master/Ssummarise--T5_GPT-Graph-Longformer_Pegasus.ipynb)](https://github.com/len-sla/NLP-BERT/blob/master/Ssummarise--T5_GPT-Graph-Longformer_Pegasus.ipynb)
 
 
-[Text Summarization using BERT, GPT2,XLNET.ipynb](https://github.com/len-sla/NLP/blob/master/Text%20Summarization%20using%20BERT%2C%20GPT2%2CXLNET.ipynb)
 
 
 
@@ -70,14 +72,12 @@ Original text was taken froom Internet and was like below
 _Most inspirational for CLIP is the work of Ang Li and his co-authors at FAIR13 who in 2016 demonstrated using natural language supervision to enable zero-shot transfer to several existing computer vision classification datasets, such as the canonical ImageNet dataset. They achieved this by fine-tuning an ImageNet CNN to predict a much wider set of visual concepts (visual n-grams) from the text of titles, descriptions, and tags of 30 million Flickr photos and were able to reach 11.5% accuracy on ImageNet zero-shot._
 
 _Finally, CLIP is part of a group of papers revisiting learning visual representations from natural language supervision in the past year. This line of work uses more modern architectures like the Transformer32 and includes VirTex,33 which explored autoregressive language modeling, ICMLM,34 which investigated masked language modeling, and ConVIRT,35 which studied the same contrastive objective we use for CLIP but in the field of medical imaging._
-
+[Text Summarization using BERT, GPT2,XLNET.ipynb](https://github.com/len-sla/NLP/blob/master/Text%20Summarization%20using%20BERT%2C%20GPT2%2CXLNET.ipynb)
 
 ![### NLP_summarisation.PNG](NLP_summarisation.PNG)
 
 
-Second notebook collects methods based on T5, GPT3, Longformer
 
-[Summarize-withT5, GPT, Longformer](https://github.com/len-sla/NLP-BERT/blob/master/summarise.ipynb)
 
 
         '''
