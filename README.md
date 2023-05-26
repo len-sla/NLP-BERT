@@ -20,12 +20,12 @@ There are several other methods and approaches for text summarization  Here are 
 
 
 
-comparison table summarizing the advantages and disadvantages of T5, GPT, and Graph-based methods for text summarization:
+comparison table summarizing the advantages and disadvantages of T5, GPT, Longformer, Pegasus and Graph-based methods for text summarization:
 
 
 
 
- Here's a comparison table showcasing the advantages and disadvantages of various methods of summarization, including T5, GPT-3, Longformer, Graph-based, and Pegasus:
+ Here's a comparison table( and notebook) showcasing the advantages and disadvantages of various methods of summarization, including T5, GPT-3, Longformer, Graph-based, and Pegasus:
 
 | Method     | Advantages                                                                                                                                                                                                         | Disadvantages                                                                                                                                                                                                         |
 |------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
