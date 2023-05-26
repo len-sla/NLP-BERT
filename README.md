@@ -18,7 +18,7 @@ There are several other methods and approaches for text summarization  Here are 
 
 6. Neural Network Architectures: Apart from transformer-based models like T5 and GPT, various neural network architectures have been used for summarization, including sequence-to-sequence models with attention mechanisms, recurrent neural networks (RNNs), and convolutional neural networks (CNNs).
 
-It's worth noting that the choice of summarization method depends on the specific requirements of your task, the amount of training data available, the desired level of extractiveness or abstractiveness, and the computational resources at your disposal. Each method has its strengths and limitations, and it's often beneficial to explore and experiment with different approaches to find the most suitable one for your particular use case. following notebook  presents Graph based method and neuralarchitecture GPT and T5
+
 
 comparison table summarizing the advantages and disadvantages of T5, GPT, and Graph-based methods for text summarization:
 
