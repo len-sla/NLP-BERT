@@ -38,7 +38,7 @@ comparison table summarizing the advantages and disadvantages of T5, GPT, Longfo
 
 It's important to note that the choice of the summarization method depends on the specific requirements of the task, available resources, and the nature of the text being summarized. Each method has its strengths and weaknesses, and selecting the most appropriate method would depend on factors such as the desired level of abstractive or extractive summarization, the size and quality of the training data, the computational resources available, and the level of control and interpretability needed in the summarization process.
 
-[[Summarize-withT5, GPT, Longformer](https://github.com/len-sla/NLP-BERT/blob/master/Ssummarise--T5_GPT-Graph-Longformer_Pegasus.ipynb)](https://github.com/len-sla/NLP-BERT/blob/master/Ssummarise--T5_GPT-Graph-Longformer_Pegasus.ipynb)
+[Ssummarise--T5_GPT-Graph-Longformer_Pegasus.ipynb](https://github.com/len-sla/NLP-BERT/blob/master/Ssummarise--T5_GPT-Graph-Longformer_Pegasus.ipynb)
 
 
 
